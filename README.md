@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/2d5643e9-9abc-4699-8e94-2e620a65cbdd)# E-Commerce-Use-Case: Email Messaging System with RabbitMQ:
-
 This assignment implements an Email Messaging System using RabbitMQ as the message broker. The system has a Producer-Consumer architecture where:
 
 - The Producer sends different types of email messages (Promotional, Marketing, Feedback) to a RabbitMQ queue.
@@ -13,6 +11,8 @@ This assignment implements an Email Messaging System using RabbitMQ as the messa
       - Product Marketing Emails
       - Feedback Request Emails
 3- Demonstrate a Producer-Consumer model with message acknowledgment.
+
+![image](https://github.com/user-attachments/assets/99dc8560-0643-453a-8fe9-2a81eb49eb46)
 
 **Prerequisites**:
 ------------------
@@ -31,8 +31,20 @@ This assignment implements an Email Messaging System using RabbitMQ as the messa
    **- URL:** http://localhost:15672/
    **- Username:** guest
    **- Password:** guest
+   
+![image](https://github.com/user-attachments/assets/5449b29d-b021-4bbb-bb6a-e1089fb65e24)
+
 4- pip install pika
+
+![image](https://github.com/user-attachments/assets/c08c2bf7-0dce-4487-9e9e-ad1626e79769)
+
 5- Write the scripts.
-6- Start the RabbitMQ Server
-7- Run the Producer script.
-8- Run the Consumer script.
+6- Start the RabbitMQ Server.
+
+![image](https://github.com/user-attachments/assets/a12a5c6a-722c-4128-b388-e37025e3c62e)
+
+7- Run the Producer script in the termninal to observe the output.
+8- Run the Consumer script in the terminal to observe the output.
+
+![image](https://github.com/user-attachments/assets/15a4e855-e53f-4c8e-8889-7ffcd7d2a604)
+
