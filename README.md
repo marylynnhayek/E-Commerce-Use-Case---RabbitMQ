@@ -16,7 +16,6 @@ This assignment implements an Email Messaging System using RabbitMQ as the messa
 
 **Prerequisites**:
 ------------------
-- Python 3.10+ installed.
 - Docker Desktop installed.
 - RabbitMQ Docker image with the management plugin.
 
